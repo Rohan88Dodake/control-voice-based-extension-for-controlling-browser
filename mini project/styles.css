@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background: linear-gradient(to bottom, #ffffff, #0b0b0b);
+}
+
+h1 {
+    color: #333;
+}
+
+p {
+    color: #666;
+}
+
+.commands {
+    margin-top: 20px;
+}
+
+.commands h2 {
+    color: #333;
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+.commands ul {
+    list-style: disc;
+    padding-left: 20px;
+}
+
+.output {
+    margin-top: 20px;
+    font-weight: bold;
+}
+
+#local-audio {
+    display: none;
+}
